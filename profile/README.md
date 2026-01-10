@@ -1,6 +1,6 @@
 # EigenFunk
 
-Open Source Projekte von Martin Funk - Freelance Software-Entwickler aus Wiesbaden.
+Open Source Projekte von **Martin Funk** - Senior Java-Entwickler & Softwarearchitekt mit 25+ Jahren Projekterfahrung.
 
 ## Highlights
 
@@ -10,14 +10,19 @@ Open Source Projekte von Martin Funk - Freelance Software-Entwickler aus Wiesbad
 | [quarkus-workshop](https://github.com/eigenfunk/quarkus-workshop) | Hands-on Quarkus Workshop | Java |
 | [sql-in-the-shell](https://github.com/eigenfunk/sql-in-the-shell) | SQL direkt in der Shell ausfuehren | Shell |
 | [blueskyRoast](https://github.com/eigenfunk/blueskyRoast) | Bluesky Bot | Java |
-| [scan2Text](https://github.com/eigenfunk/scan2Text) | OCR Tool | Python |
 
 ## Tech Stack
 
 ```
-Java · TypeScript · Python · Shell · Swift
+Java · Spring Boot · Hibernate · Quarkus · Docker · AWS · Kubernetes
 ```
+
+## Zertifizierungen
+
+- Oracle Certified Professional: Java SE 17 Developer
+- Linux Professional Institute LPIC-1
 
 ## Kontakt
 
-[eigenfunk.de](https://eigenfunk.de)
+- Web: [eigenfunk.de](https://eigenfunk.de)
+- Mail: Martin@MartinFunk.de
